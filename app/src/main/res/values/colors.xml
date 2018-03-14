@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Primary">#3F51B5</color>
+    <color name="PrimaryDark">#303F9F</color>
+    <color name="Accent">#FF4081</color>
+
+    <color name="fundo">#333333</color>
+    <color name="corFonte">#FFFFFF</color>
+    <color name="fundoRelative">#015488</color>
+
+    <color name="fundo_Gasto">#015488</color>
+
+    <color name="titulo">#015488</color>
+
+    <color name="categoria_alimentacao">#9FC5F8</color>
+    <color name="categoria_hospedagem">#6FA8DC</color>
+    <color name="categoria_transporte">#0099CC</color>
+    <color name="categoria_outros">#ACBFD5</color>
+
+</resources>
